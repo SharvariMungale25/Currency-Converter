@@ -27,4 +27,4 @@ A simple web-based currency converter app built with HTML, CSS, and JavaScript. 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SharvariMungale25/currency-converter.git
+   git clone https://github.com/SharvariMungale25/Currency-Converter.git
